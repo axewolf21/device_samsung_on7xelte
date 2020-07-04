@@ -1,4 +1,4 @@
-for rom in rr dot lineage cerberus aosp cos havoc lotus
+for rom in rr lineage cerberus aosp havoc 
 do
   for variant in user userdebug eng
   do
